@@ -1,2 +1,2 @@
-console.log( "rodadndo o sisitema de gerenciamento de jogos")
-console.log("new commit")
+console.log( "rodando o sistema de gerenciamento de jogos")
+
